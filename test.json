@@ -10,10 +10,14 @@
 	],
 	"news": [
 		{
-			"title": "test"
+			"title": "test",
+			"date": "31.02.2019",
+			"text": "terterztrutzuk gfh jtd jf"
 		},
 		{
-			"title": "test2"
+			"title": "test2",
+			"date": "09.04.2019",
+			"text": "dummy text"
 		}
 	]
 }
