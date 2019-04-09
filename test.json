@@ -1,4 +1,11 @@
 {
 	"title": "Hello world",
-	"subtitle": "subheader\ntest"
+	"subtitle": "subheader\ntest",
+	"list": [
+		"test",
+		"test2",
+		"test3",
+		"test4",
+		"test5"
+	]
 }
