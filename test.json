@@ -8,5 +8,12 @@
 		"test4",
 		"test5"
 	],
-	"news": []
+	"news": [
+		{
+			"title": "test"
+		},
+		{
+			"title": "test2"
+		}
+	]
 }
