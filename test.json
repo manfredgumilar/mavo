@@ -12,12 +12,14 @@
 		{
 			"title": "test",
 			"date": "31.02.2019",
-			"text": "terterztrutzuk gfh jtd jf"
+			"text": "terterztrutzuk gfh jtd jf",
+			"image": "https://picsum.photos/500/?random"
 		},
 		{
 			"title": "test2",
 			"date": "09.04.2019",
-			"text": "dummy text"
+			"text": "dummy text",
+			"image": "https://picsum.photos/500/?random"
 		}
 	]
 }
